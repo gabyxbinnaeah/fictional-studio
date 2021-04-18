@@ -23,3 +23,20 @@
    width: 100%;
    text-align: center;
 }
+#about{
+    padding-top: 10px;
+}
+#about-upper{
+    height: 130px;
+    width: 100%;
+    text-align: center;
+
+}
+.about-upper{
+    padding: top 20px;
+}
+#about-lower{
+    height: 130px;
+    width: 100%;
+    text-align: center;
+}
