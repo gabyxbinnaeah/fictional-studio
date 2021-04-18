@@ -59,3 +59,27 @@
     text-align: center;
     color: white;
 }
+
+.we-do{
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 10px;
+}
+#we-do{
+    padding-top:20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.portfolio{
+    padding: top 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.upper{
+    height: 220px;
+    
+}
+.lower{
+    height: 220px;
+
+}
