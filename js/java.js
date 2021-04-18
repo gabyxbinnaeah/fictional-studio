@@ -67,4 +67,24 @@ $(document).ready(function() {
      $("div.bg-work8").fadeToggle();
     });
 
+ 
+     // coolects submited inputs and store
+     $("form#add").submit(function(event) {
+        event.preventDefault();
+
+        let enteredName=$("#name").val();
+        alert(enteredName+" "+ "we have recieved your message.Thank you for reaching out to us."); 
+        let enteredMail=$("#storedSender").val();
+        let enteredText=$("#storedText").val();
+
+        //displays
+        $("div.identity").text(enteredName);
+        $("div.mail-sender").text(enteredMail);
+        $("div.email-message").text(enteredText);
+
+        
+    });
+
+
+
 });
