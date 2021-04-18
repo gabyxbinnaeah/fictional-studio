@@ -84,6 +84,11 @@ $(document).ready(function() {
 
         
     });
+    // click functions 
+         
+    $("#mails").click(function() {
+        $("div.all").toggle();
+    });
 
 
 
