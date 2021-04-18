@@ -83,3 +83,56 @@
     height: 220px;
 
 }
+
+.contact{
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+#contact{
+    margin-top:100px;
+    opacity: 0.3; 
+}
+#fade{
+     border: 2px solid white;
+     
+}
+.contact-us{
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    margin-top:20px;
+}
+#portimg{
+    /* background-image: url(../images/portfolio/work8.jpg); */
+}
+#social{
+    margin-top:  20px;
+}
+.nametag{
+    text-align: center;
+    margin-top:10 px;
+    font-weight: bold;
+}
+.development{
+    text-align: center;
+    display: none;
+    background-color: rgba(63, 52, 52, 0.5);
+    width: 100%;
+    text-transform: lowercase;
+}
+.design{
+    text-align: center;
+    display: none;
+    background-color: rgba(63, 52, 52, 0.5);
+    width: 100%;
+    text-transform: lowercase;
+
+}
+.product{
+    text-align: center;
+    display: none;
+    background-color: rgba(63, 52, 52, 0.5);
+    width: 100%;
+    text-transform: lowercase;
+}
