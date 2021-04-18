@@ -40,3 +40,22 @@
     width: 100%;
     text-align: center;
 }
+.services{
+    height: 320px;
+    width: 100%;
+    background-size: cover;
+}
+.blank-service{
+    height: 90px;
+    width: 100%;
+}
+.blank-service2{
+    height: 10px;
+    width: 100%;
+}
+.b-service{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
